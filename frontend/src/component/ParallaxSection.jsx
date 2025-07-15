@@ -137,7 +137,7 @@ const AboutSection = () => {
             opacity: 0,
           }}
         >
-          About GameZone
+          About ZeroFrame
         </h2>
 
         <div className="grid gap-8 md:grid-cols-3 max-w-6xl mx-auto">

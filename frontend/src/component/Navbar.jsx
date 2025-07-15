@@ -85,7 +85,7 @@ const GameZoneNavbar = () => {
                 ref={logoTextRef}
                 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-300 via-purple-300 to-blue-300"
               >
-                GameZone
+                ZeroFrame
               </h1>
             </div>
 
@@ -194,7 +194,7 @@ const GameZoneNavbar = () => {
 
             <div className="pt-6 border-t border-white/10">
               <p className="text-white/60 text-sm text-center">
-                GameZone © {new Date().getFullYear()}
+                ZeroFrame © {new Date().getFullYear()}
               </p>
             </div>
           </div>
