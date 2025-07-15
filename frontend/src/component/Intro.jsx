@@ -123,7 +123,7 @@ const Intro = ({ onFinish }) => {
           ref={textRef}
           className="mb-8 text-xl sm:text-2xl text-white/80 typewriter"
         >
-          Loading ZeroFrame...
+          Loading ArcadiaX...
         </div>
         
         {/* Progress bar */}

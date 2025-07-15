@@ -63,7 +63,7 @@ const GameZoneFooter = () => {
 
   const footerSections = [
     {
-      title: "ZeroFrame",
+      title: "ArcadiaX",
       items: [
         { text: "About Us", href: "#about" },
         { text: "Our Games", href: "#games" },
@@ -206,7 +206,7 @@ const GameZoneFooter = () => {
         <div className={`flex flex-col lg:flex-row justify-between items-start lg:items-center mb-12 ${isVisible ? 'animate-fade-in-up' : 'opacity-0'}`}>
           <div className="mb-8 lg:mb-0">
             <h2 className="text-4xl font-bold mb-2 logo-glow bg-gradient-to-r from-white to-blue-300 bg-clip-text text-transparent">
-              🎮 ZeroFrame
+              🎮 ArcadiaX
             </h2>
             <p className="text-white/60 text-lg max-w-md">
               Where gaming dreams come alive. Join millions of players in epic adventures.
@@ -254,7 +254,7 @@ const GameZoneFooter = () => {
         <div className={`border-t border-white/10 pt-8 ${isVisible ? 'animate-fade-in-up animate-delay-5' : 'opacity-0'}`}>
           <div className="flex flex-col lg:flex-row justify-between items-center">
             <div className="text-white/60 mb-4 lg:mb-0">
-              <p>© 2025 ZeroFrame. All rights reserved.</p>
+              <p>© 2025 ArcadiaX. All rights reserved.</p>
             </div>
             <div className="flex flex-wrap gap-6 text-sm">
               <span className="text-white/40">Made with ❤️ for gamers</span>

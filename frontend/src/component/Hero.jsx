@@ -126,7 +126,7 @@ const Hero = () => {
             color: "transparent"
           }}
         >
-          Welcome to ZeroFrame 🎮
+          Welcome to ArcadiaX 🎮
         </h1>
         <p
           ref={subtitleRef}
